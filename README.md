@@ -33,7 +33,7 @@
 
 ### Wire Frames
 
-- [x] http://framebox.org/AnIcy
+![Wireframe 1](https://github.com/katiemackenbrock/Bravo-API-Documentation/blob/main/1.png)
 
 ### MVP Goals
 - [ ] Let's make it semi attractive
