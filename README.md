@@ -34,6 +34,7 @@
 ### Wire Frames
 
 ![Wireframe 1](https://github.com/katiemackenbrock/Bravo-API-Documentation/blob/main/1.png)
+![Wireframe 2](https://github.com/katiemackenbrock/Bravo-API-Documentation/blob/main/2.png)
 
 ### MVP Goals
 - [ ] Let's make it semi attractive
