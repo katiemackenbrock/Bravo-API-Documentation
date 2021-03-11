@@ -16,7 +16,7 @@
 
 - [x] Create README.md
 - [ ] Ask lots of questions re: who what where when why 
-- [ ] What is the best framework I should be using to host this? I have read some articles recommending Jekyll and Hugo for this, but those are static site generators build from Ruby, and I'm not sure we use Ruby very much anymore?
+- [ ] What is the best framework I should be using to host this? I was thinking of using GraphQL and Hasura, but I have read some articles recommending Jekyll and Hugo for this. Those are static site generators build from Ruby, however, and I'm not sure we use Ruby very much anymore?
  
 
 ### Tech to be used
